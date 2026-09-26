@@ -11,6 +11,8 @@ Há um problema contundente no Brasil de violência contra a mulher não registr
 
 	**Persona 1 \-** Ana Rodrigues, Mãe de dois filhos, 38 anos de idade, dona de casa, casada há 10 anos, sofre violência psicológica e física, e é cética sobre sua situação. Ela nunca denunciou por conta de seus filhos e por não ter para onde ir já que não tem renda fixa.
 
+
+	
 	**Persona 2** \-  Maria de Almeida, 23 anos de idade, namora há 5 anos e sofre violência psicológica. Ela nunca fez nada por não saber que aquilo se caracterizava como violência doméstica, já sofreu diversas ameaças e resolveu entrar no aplicativo por ter medo que a situação escale para feminicídio.
 
 		
