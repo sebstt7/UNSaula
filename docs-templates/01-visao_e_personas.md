@@ -5,7 +5,7 @@ Há um problema contundente no Brasil de violência contra a mulher não registr
 
 **Solução:** Para enfrentar esse cenário, propomos o desenvolvimento do Assistente de Vítimas até as Autoridades, oferecendo apoio desde o primeiro sinal de alerta até o momento da denúncia formal. A proposta é reduzir a barreira de desinformação apontada como uma das principais causas da ocultação de casos, oferecendo um passo a passo de acompanhamento, apoiando a usuária antes do envolvimento das autoridades, com informações sobre rede de apoio, canais de denúncia e órgãos responsáveis.
 
-**Objetivos**: Conectar a usuária a ONGs, psicólogos, advogadas e grupos de apoio que entraremos em parceria, tudo conforme a localização da usuária, priorizando usabilidade e discrição, já que muitas vítimas irão usar o app em contextos de risco. Informar o máximo possível de forma didática e visual utilizando uma linguagem acolhedora e reconfortante. Também iremos coletar os dados e usar eles de forma anônima e ética, para gerar indicadores que apoiem políticas públicas que combatem à violência doméstica
+**Objetivos**: Conectar a usuária a ONGs, psicólogos, advogadas e grupos de apoio que entraremos em parceria, tudo conforme a localização da usuária, priorizando usabilidade e discrição, já que muitas vítimas irão usar o app em contextos de risco. Informar o máximo possível de forma didática e visual utilizando uma linguagem acolhedora e reconfortante. Também iremos coletar os dados e usar eles de forma anônima e ética, para gerar indicadores que apoiem políticas públicas que combatem à violência doméstica.
 
 **Persona1**
 
