@@ -1,7 +1,7 @@
 **Visão e Personas**
 
 
-**Problema:**:
+**Problema:**
 Há um problema contundente no Brasil de violência contra a mulher não registrada, como aponta a pesquisa nacional de violência contra a mulher: 30% das mulheres brasileiras já foram vítimas, mas menos da metade denunciou ocorrência. E acreditamos que isto vem da falta de informação e reconhecimento de seus direitos, sem contar a falta de acompanhamento antes do envolvimento das autoridades e com o aumento do feminicídio nos últimos anos é de extrema importância que consigamos criar uma interface simples de usar com uma comunicação clara e objetiva.
 
 **Solução:**
