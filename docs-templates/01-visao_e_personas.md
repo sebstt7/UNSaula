@@ -7,11 +7,12 @@ Há um problema contundente no Brasil de violência contra a mulher não registr
 
 **Objetivos**: Conectar a usuária a ONGs, psicólogos, advogadas e grupos de apoio que entraremos em parceria, tudo conforme a localização da usuária, priorizando usabilidade e discrição, já que muitas vítimas irão usar o app em contextos de risco. Informar o máximo possível de forma didática e visual utilizando uma linguagem acolhedora e reconfortante. Também iremos coletar os dados e usar eles de forma anônima e ética, para gerar indicadores que apoiem políticas públicas que combatem à violência doméstica
 
-**Personas**
+**Persona1**
 
 	**Persona 1 \-** Ana Rodrigues, Mãe de dois filhos, 38 anos de idade, dona de casa, casada há 10 anos, sofre violência psicológica e física, e é cética sobre sua situação. Ela nunca denunciou por conta de seus filhos e por não ter para onde ir já que não tem renda fixa.
 
 
+**Persona2**
 	
 	**Persona 2** \-  Maria de Almeida, 23 anos de idade, namora há 5 anos e sofre violência psicológica. Ela nunca fez nada por não saber que aquilo se caracterizava como violência doméstica, já sofreu diversas ameaças e resolveu entrar no aplicativo por ter medo que a situação escale para feminicídio.
 
