@@ -37,6 +37,12 @@
 
 # 3.4 Fora de Escopo
 <!-- 3 a 5 itens que o projeto explicitamente NÃO vai fazer -->
--
--
--
+Funcionalidades Fora do Escopo
+
+Atendimento psicológico pelo aplicativo.
+Conversas por chat com profissionais ou outras usuárias.
+Consultoria ou acompanhamento jurídico individual.
+Comunicação direta com sistemas da polícia ou da Justiça.
+Armazenamento de documentos, provas ou ocorrências.
+Rastreamento da localização da usuária em tempo real.
+Serviço próprio de emergência do aplicativo.
