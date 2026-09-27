@@ -50,3 +50,5 @@ Detalhes de cada papel em [`docs-templates/02-equipe.md`](./docs-templates/02-eq
 | **feature/\*** | Desenvolvimento de funcionalidades específicas |
 
 Fluxo: `feature/*` → `develop` → `main`
+
+https://trello.com/b/2CieaanU/colab-ava
